@@ -1,0 +1,61 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+#navbarText{
+  margin-right: 50px;
+}
+#navlink{
+margin-left:25px;
+
+}
+#home{
+  margin-left:300px;
+}
+li:hover{
+  color:;
+}
+img{
+  margin-left: 50px;
+}
+.head{
+  display:flex;
+  width:100%;
+  min-width:100vh;
+  
+}
+.headcontent{
+  width:60%;
+  margin-top:100px;
+  text-align:center;
+  margin-left:100px;
+  margin-right:5px;
+  
+}
+.image{
+  width:40%;
+  margin-top:50px;
+  margin-left:80px;
+}
+#quotes{
+  margin-bottom:50px;
+}
+#cardcontainer{
+  display: flex;
+}
+#card1{
+  margin-top:30px;
+  margin-left:30px;
+  margin-right:30px;
+  margin-bottom: 30px;
+}
+#cardcontainer{
+  display: flex;
+}
+#card2{
+  margin-top:30px;
+  margin-left:30px;
+  margin-right:30px;
+  margin-bottom: 55px;
+}
+
